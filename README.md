@@ -1,1 +1,1 @@
-# Lanterna-Android
+# Lanterna - Android
